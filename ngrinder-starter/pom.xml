@@ -11,6 +11,9 @@
 	<groupId>org.ngrinder</groupId>
 	<artifactId>ngrinder-starter</artifactId>
 
+	<properties>
+		<maven.test.skip>true</maven.test.skip>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>

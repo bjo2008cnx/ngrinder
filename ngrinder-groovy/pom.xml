@@ -10,7 +10,9 @@
 	</parent>
 	<artifactId>ngrinder-groovy</artifactId>
 	<name>ngrinder-groovy</name>
-
+	<properties>
+		<maven.test.skip>true</maven.test.skip>
+	</properties>
 	<packaging>jar</packaging>
 	<dependencies>
 		<dependency>

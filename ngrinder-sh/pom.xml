@@ -8,6 +8,9 @@
 	<name>ngrinder-sh</name>
 	<version>3.4</version>
 
+	<properties>
+		<maven.test.skip>true</maven.test.skip>
+	</properties>
 	<packaging>jar</packaging>
 	<build>
 		<plugins>

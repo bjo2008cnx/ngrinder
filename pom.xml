@@ -57,6 +57,7 @@
 	</repositories>
 
 	<properties>
+		<maven.test.skip>true</maven.test.skip>
 		<spring.version>4.2.5.RELEASE</spring.version>
 		<spring.security.version>4.0.4.RELEASE</spring.security.version>
 		<spring.data.version>1.9.4.RELEASE</spring.data.version>
